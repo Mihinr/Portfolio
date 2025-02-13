@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.a5c89086.css",
-    "main.js": "/static/js/main.405c8ccf.js",
+    "main.js": "/static/js/main.af630048.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/MoodFlix.png": "/static/media/MoodFlix.714f2c2e08a2116b78a6.png",
+    "static/media/ShuttleBooking.png": "/static/media/ShuttleBooking.9f755a2f899eba83b5d0.png",
     "static/media/TechSolveForum.png": "/static/media/TechSolveForum.118175e89731cbd1605a.png",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/Athlitismos.png": "/static/media/Athlitismos.5a82b6993adc82bef7b1.png",
+    "static/media/ticketmodelling.png": "/static/media/ticketmodelling.f3236b839076802a4d41.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/Dermorax.png": "/static/media/Dermorax.cef4411b0c45e1e60e9e.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/profilepic.png": "/static/media/profilepic.5d4b057c9201e9612e44.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -31,11 +33,11 @@
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "index.html": "/index.html",
     "main.a5c89086.css.map": "/static/css/main.a5c89086.css.map",
-    "main.405c8ccf.js.map": "/static/js/main.405c8ccf.js.map",
+    "main.af630048.js.map": "/static/js/main.af630048.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c89086.css",
-    "static/js/main.405c8ccf.js"
+    "static/js/main.af630048.js"
   ]
 }
