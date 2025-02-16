@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a5c89086.css",
-    "main.js": "/static/js/main.af630048.js",
+    "main.js": "/static/js/main.26734e31.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/MoodFlix.png": "/static/media/MoodFlix.714f2c2e08a2116b78a6.png",
     "static/media/ShuttleBooking.png": "/static/media/ShuttleBooking.9f755a2f899eba83b5d0.png",
@@ -33,11 +33,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.a5c89086.css.map": "/static/css/main.a5c89086.css.map",
-    "main.af630048.js.map": "/static/js/main.af630048.js.map",
+    "main.26734e31.js.map": "/static/js/main.26734e31.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c89086.css",
-    "static/js/main.af630048.js"
+    "static/js/main.26734e31.js"
   ]
 }
